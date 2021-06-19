@@ -4,7 +4,48 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 
 The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
 
-## #181 – Sergey Nazarov: Chainlink, Smart Contracts, and Oracle Networks
+## #191 - Daniel Schmachtenberger - Steering Civilization Away from Self-Destruction
+
+* [Free Will](https://www.amazon.com/Free-Will-Deckle-Edge-Harris/dp/1451683405)
+* [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Succeed-Revised/dp/0143117009)
+* [The Collapse of Complex Societies](https://www.amazon.com/Collapse-Complex-Societies-Studies-Archaeology/dp/052138673X)
+
+## #190 - Jordan Ellenberg - Mathematics of High-Dimensional Shapes and Geometries
+
+* [Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else](https://www.amazon.com/gp/product/1984879057)
+* [Duel at Dawn: Heroes, Martyrs, and the Rise of Modern Mathematics](https://www.amazon.com/Duel-Dawn-Mathematics-Histories-Technology/dp/0674061748)
+* [Flatland: A Romance of Many Dimensions](https://www.amazon.com/Flatland-Romance-Dimensions-Thrift-Editions/dp/048627263X)
+* [Winning Ways for Your Mathematical Plays: Volume 1](https://www.amazon.com/Winning-Ways-Your-Mathematical-Plays/dp/1568811306)
+
+## #189 - David Sinclair - Extending the Human Lifespan Beyond 100 Years
+
+* [Lifespan: Why We Age—and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age-Dont-Have-ebook/dp/B07N4C6LGR)
+
+## #187 - Frank Wilczek - Physics of Quarks, Dark Matter, Complexity, Life & Aliens
+
+* [A Beautiful Question: Finding Nature's Deep Design](https://www.amazon.com/Beautiful-Question-Finding-Natures-Design/dp/0143109367)
+* [Fundamentals: Ten Keys to Reality](https://www.amazon.com/Fundamentals-Keys-Reality-Frank-Wilczek/dp/0735223793)
+
+## #186 - Bryan Johnson - Kernel Brain-Computer Interfaces
+
+* [Zero: The Biography of a Dangerous Idea](https://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476)
+* [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713)
+
+## #185 - Sam Harris - Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning
+
+* [The Double Helix: A Personal Account of the Discovery of the Structure of DNA](https://www.amazon.com/Double-Helix-Personal-Discovery-Structure/dp/074321630X)
+* [Free Will](https://www.amazon.com/Free-Will-Deckle-Edge-Harris/dp/1451683405)
+
+## #184 - Katherine de Kleer - Planets, Moons, and Asteroids in Our Solar System
+
+* [Pale Fire](https://www.amazon.com/Pale-Fire-Vladimir-Nabokov/dp/0679723420)
+* [The Selected Poetry of Rainer Maria Rilke](https://www.amazon.com/Selected-Poetry-Rainer-Maria-Rilke/dp/0679722017)
+
+## #183 - Po-Shen Loh - Mathematics, Math Olympiad, Combinatorics & Contact Tracing
+
+* [Hitchhiker's Guide to the Galaxy](https://amzn.to/37HOu5c)
+
+## #181 - Sergey Nazarov: Chainlink, Smart Contracts, and Oracle Networks
 
 * [Plato: Complete Works](https://www.amazon.com/Plato-Complete-Works/dp/0872203492)
   * Specifically dialogues Protogoras and Gorgias
