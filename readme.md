@@ -4,6 +4,50 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 
 The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
 
+## #181 – Sergey Nazarov: Chainlink, Smart Contracts, and Oracle Networks
+
+* [Plato: Complete Works](https://www.amazon.com/Plato-Complete-Works/dp/0872203492)
+  * Specifically dialogues Protogoras and Gorgias
+
+## #180 - Jeremi Suri - History of American Power
+
+* [The Impossible Presidency: The Rise and Fall of America’s Highest Office](https://www.amazon.com/gp/product/B071RK96TZ)
+* [Buddenbrooks: The Decline of a Family](https://www.amazon.com/Buddenbrooks-Decline-Family-Thomas-Mann/dp/0679752609)
+* [Triumph and Tragedy (The Second World War)](https://www.amazon.com/Triumph-Tragedy-Second-World-War/dp/0395410606)
+
+## #178 - Michael Malice and Yaron Brook - Ayn Rand, Human Nature, and Anarchy
+
+* [Lord of the Flies](https://www.amazon.com/Lord-Flies-William-Golding/dp/0399501487)
+* [The Case Against Reality: Why Evolution Hid the Truth from Our Eyes](https://www.amazon.com/Case-Against-Reality-Evolution-Truth/dp/0393254690)
+* [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145)
+* [The Fountainhead](https://www.amazon.com/Fountainhead-Ayn-Rand/dp/0452273331)
+* [Mussolini and Fascism: The View from America](https://www.amazon.com/Mussolini-Fascism-America-Princeton-Library/dp/0691617880)
+* [The Philosophy Of Fascism](https://www.amazon.com/Philosophy-Fascism-Mario-Palmeri/dp/1432566377)
+
+## #176 - Robert Breedlove - Philosophy of Bitcoin from First Principles
+
+* [The Social Contract](https://www.amazon.com/Social-Contract-Jean-Jacques-Rousseau/dp/B08GVGMS83)
+* [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/1416524282)
+* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
+* [The Case Against Reality: Why Evolution Hid the Truth from Our Eyes](https://www.amazon.com/Case-Against-Reality-Evolution-Truth/dp/0393254690)
+* [The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720)
+* [Lila: An Inquiry Into Morals](https://www.amazon.com/Lila-Inquiry-Robert-M-Pirsig/dp/0553299611)
+* [Human Action](https://www.amazon.com/Human-Action-Ludwig-von-Mises/dp/1610161459)
+* [Honest Money: Biblical Principles of Money and Banking](https://www.amazon.com/Honest-Money-Biblical-Principles-Banking/dp/0930462157)
+* [Maps of Meaning: The Architecture of Belief](https://www.amazon.com/Maps-Meaning-Architecture-Jordan-Peterson/dp/0415922224)
+
+## #175 - Yannis Pappas - History and Comedy
+
+* [The Denial of Death](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)
+* [Animal Farm](https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341)
+
+## #174 - Tyler Cowen - Economic Growth and the Fight Against Conformity and Mediocrity
+
+* [The Life of Samuel Johnson (Penguin Classics)](https://www.amazon.com/Life-Samuel-Johnson-Penguin-Classics/dp/0140436626)
+* [Capitalism: The Unknown Ideal](https://www.amazon.com/Capitalism-Ideal-Ayn-Rand/dp/0451147952)
+* [Big Business: A Love Letter to an American Anti-Hero](https://www.amazon.com/Big-Business-Letter-American-Anti-Hero-ebook/dp/B07D2B8MLT)
+* [The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Will (Eventually) Feel Better](https://www.amazon.com/Great-Stagnation-Low-Hanging-Eventually-eSpecial-ebook/dp/B004H0M8QS)
+
 ## #173 - Nic Carter - Bitcoin Core Values, Layered Scaling, and Blocksize Debates
 
 * [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
