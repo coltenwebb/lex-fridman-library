@@ -4,6 +4,20 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 
 The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
 
+## #167 Saagar Enjeti: Politics, History, and Power
+
+* [The Power Broker: Robert Moses and the Fall of New York](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
+* [The Decline and Fall of the Roman Empire](https://www.amazon.com/Decline-Roman-Empire-Penguin-Classics/dp/0140431896)
+* [Endurance: Shackleton's Incredible Voyage](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
+* [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+
+## #166 Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media
+
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+* [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
+* [A World Without Email: Reimagining Work in an Age of Communication Overload](https://www.amazon.com/World-Without-Email-Reimagining-Communication/dp/0525536558)
+* [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
+
 ## #165 Josh Barnett: Philosophy of Violence, Power, and the Martial Arts
 
 * [Wrestling Tough](https://www.amazon.com/Wrestling-Tough-Mike-Chapman/dp/0736056378)
