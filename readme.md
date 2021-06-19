@@ -2,6 +2,8 @@
 
 This is a library of book recommendations of all guests of the Lex Fridman Podcast
 
+The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
+
 ## #161 - Jason Calacanis - Startups, Angel Investing, Capitalism, and Friendship
 
 * [The Purpose Driven Church](https://amzn.to/3bqLufE)
@@ -411,8 +413,3 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 * [Winter Is Coming](https://amzn.to/3711piu)
 * [Deep Thinking](https://amzn.to/36ZCtI9)
 * [The Lord of the Rings](https://amzn.to/3pWK0jl)
-
-
-The books for episodes 46 thru 161 were found on (lexfridmanlibrary.com)[https://www.lexfridmanlibrary.com/]. Those links are made with amazon affiliates program.
-
-Please make pull requests for new episodes; feel free to add your own affiliate links, as long as they work.
