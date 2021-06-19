@@ -4,6 +4,23 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 
 The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
 
+## #165 Josh Barnett: Philosophy of Violence, Power, and the Martial Arts
+
+* [Wrestling Tough](https://www.amazon.com/Wrestling-Tough-Mike-Chapman/dp/0736056378)
+* [Blood Meridian: Or the Evening Redness in the West](https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/0679728759)
+* [The Outfit](https://www.amazon.com/Outfit-Gus-Russo/dp/1582342792)
+
+## #164 Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity
+
+* [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615)
+* [Jaws: The Story of a Hidden Epidemic](https://www.amazon.com/Jaws-Hidden-Epidemic-Sandra-Kahn/dp/1503604136)
+* [The Circadian Code: Lose Weight, Supercharge Your Energy, and Transform Your Health from Morning to Midnight](https://www.amazon.com/Circadian-Code-Supercharge-Transform-Midnight/dp/163565243X)
+* [The Dream Drugstore: Chemically Altered States of Consciousness](https://www.amazon.com/Dream-Drugstore-Chemically-Altered-Consciousness/dp/0262582201)
+
+## #162 Jim Keller: The Future of Computing, AI, Life, and Consciousness
+
+* [Hitchhiker's Guide to the Galaxy](https://amzn.to/37HOu5c)
+
 ## #161 - Jason Calacanis - Startups, Angel Investing, Capitalism, and Friendship
 
 * [The Purpose Driven Church](https://amzn.to/3bqLufE)
