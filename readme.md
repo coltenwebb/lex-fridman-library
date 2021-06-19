@@ -4,34 +4,77 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 
 The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
 
-## #167 Saagar Enjeti: Politics, History, and Power
+## #173 - Nic Carter - Bitcoin Core Values, Layered Scaling, and Blocksize Debates
+
+* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
+* [Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies-ebook/dp/B08PS293NT)
+* [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696)
+* [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
+* [Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Explained](https://www.amazon.com/Inventing-Bitcoin-Technology-Decentralized-Explained/dp/1794326316)
+
+## #172 - Ryan Schiller - Librex and the Free Exchange of Ideas on College Campuses
+
+* [The Mathematics of Poker](https://www.amazon.com/Mathematics-Poker-Bill-Chen/dp/1886070253)
+* [The Work of Art: A No-Nonsense Field Guide for Creative Entrepreneurs](https://www.amazon.com/Work-Art-No-Nonsense-Creative-Entrepreneurs/dp/173322470X)
+
+## #171 - Anthony Pompliano - Bitcoin
+
+* [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
+* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
+* [Bitcoin: Hard Money You Can't F\*ck With](https://www.amazon.com/Bitcoin-bitcoin-global-reserve-currency-ebook/dp/B08PKYQDGC)
+* [Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies-ebook/dp/B08PS293NT)
+* [Bitcoin & Black America](https://www.amazon.com/Bitcoin-Black-America-Isaiah-Jackson/dp/1079178090)
+* [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405)
+* [The Dao of Capital: Austrian Investing in a Distorted World](https://www.amazon.com/Dao-Capital-Austrian-Investing-Distorted/dp/111834703X)
+* [The Richest Man In Babylon - Original Edition](https://www.amazon.com/Richest-Man-Babylon-Magic-Story/dp/1939438632)
+* [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680178)
+* [When Breath Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X)
+
+## #170 - Ronald Sullivan - The Ideal of Justice in the Face of Controversy and Evil
+
+* [Contingency, Irony, and Solidarity](https://www.amazon.com/Contingency-Irony-Solidarity-Richard-Rorty-dp-0521367816/dp/0521367816)
+* [The Souls of Black Folk](https://www.amazon.com/Souls-Black-William-Edward-Burghardt/dp/B087SJSZT1)
+* [Crime and Punishment](https://www.amazon.com/Crime-Punishment-Fyodor-Dostoyevsky/dp/0486415872)
+
+## #169 - Ryan Hall - Solving Martial Arts from First Principles
+
+* [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
+* [The Book of Five Rings](https://www.amazon.com/Book-Five-Rings-Miyamoto-Musashi/dp/1590309847)
+* [The Art of Learning: An Inner Journey to Optimal Performance](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
+
+## #168 - Silvio Micali - Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum
+
+* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
+* [The Divine Comedy (The Inferno, The Purgatorio, and The Paradiso)](https://www.amazon.com/Divine-Comedy-Inferno-Purgatorio-Paradiso/dp/0451208633)
+
+## #167 - Saagar Enjeti - Politics, History, and Power
 
 * [The Power Broker: Robert Moses and the Fall of New York](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
 * [The Decline and Fall of the Roman Empire](https://www.amazon.com/Decline-Roman-Empire-Penguin-Classics/dp/0140431896)
 * [Endurance: Shackleton's Incredible Voyage](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
 
-## #166 Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media
+## #166 - Cal Newport - Deep Work, Focus, Productivity, Email, and Social Media
 
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
 * [A World Without Email: Reimagining Work in an Age of Communication Overload](https://www.amazon.com/World-Without-Email-Reimagining-Communication/dp/0525536558)
 * [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
 
-## #165 Josh Barnett: Philosophy of Violence, Power, and the Martial Arts
+## #165 - Josh Barnett - Philosophy of Violence, Power, and the Martial Arts
 
 * [Wrestling Tough](https://www.amazon.com/Wrestling-Tough-Mike-Chapman/dp/0736056378)
 * [Blood Meridian: Or the Evening Redness in the West](https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/0679728759)
 * [The Outfit](https://www.amazon.com/Outfit-Gus-Russo/dp/1582342792)
 
-## #164 Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity
+## #164 - Andrew Huberman - Sleep, Dreams, Creativity, Fasting, and Neuroplasticity
 
 * [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615)
 * [Jaws: The Story of a Hidden Epidemic](https://www.amazon.com/Jaws-Hidden-Epidemic-Sandra-Kahn/dp/1503604136)
 * [The Circadian Code: Lose Weight, Supercharge Your Energy, and Transform Your Health from Morning to Midnight](https://www.amazon.com/Circadian-Code-Supercharge-Transform-Midnight/dp/163565243X)
 * [The Dream Drugstore: Chemically Altered States of Consciousness](https://www.amazon.com/Dream-Drugstore-Chemically-Altered-Consciousness/dp/0262582201)
 
-## #162 Jim Keller: The Future of Computing, AI, Life, and Consciousness
+## #162 - Jim Keller - The Future of Computing, AI, Life, and Consciousness
 
 * [Hitchhiker's Guide to the Galaxy](https://amzn.to/37HOu5c)
 
