@@ -4,6 +4,34 @@ This is a library of book recommendations of all guests of the Lex Fridman Podca
 
 The books for episodes 46 thru 161 were found on [lexfridmanlibrary.com](https://www.lexfridmanlibrary.com/). Those links are made with amazon affiliates program. Please make pull requests for new episodes; feel free to add your own affiliate links, as long as the links work.
 
+## #196 - Yeonmi Park - North Korea
+
+* [Animal Farm](https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341)
+* [Siddhartha](https://www.amazon.com/Siddhartha-Hermann-Hesse/dp/081120068X)
+* [Dear Reader: The Unauthorized Autobiography of Kim Jong Il](https://www.amazon.com/Dear-Reader-Unauthorized-Autobiography-Jong/dp/1495283259)
+
+## #195 - Clara Sousa-Silva - Searching for Signs of Life on Venus and Other Planets
+
+* [Contact: A Novel](https://www.amazon.com/Contact-Novel-Carl-Sagan/dp/1501197983)
+
+## #194 - Bret Weinstein - Truth, Science, and Censorship in the Time of a Pandemic
+
+* [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92)
+* [A Hunter-Gatherer's Guide to the 21st Century](https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Challenges/dp/0593086880)
+
+## #193 - Rob Reid - The Existential Threat of Engineered Viruses and Lab Leaks
+
+* [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92)
+
+## #192 - Charles Hoskinson - Cardano
+
+* [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338)
+* [Hitchhiker's Guide to the Galaxy](https://amzn.to/37HOu5c)
+* Works by Ludwig von Mises, Murray Rothbard, and Friedrich Hayek
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+* [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225)
+* [The Art of Learning: An Inner Journey to Optimal Performance](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
+
 ## #191 - Daniel Schmachtenberger - Steering Civilization Away from Self-Destruction
 
 * [Free Will](https://www.amazon.com/Free-Will-Deckle-Edge-Harris/dp/1451683405)
